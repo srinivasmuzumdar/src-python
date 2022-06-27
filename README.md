@@ -1,1 +1,1 @@
-# excel automation using python
+# Automation script for Excel using Python
