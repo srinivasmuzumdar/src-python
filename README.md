@@ -1,1 +1,1 @@
-small python programs and scripts
+python programs and scripts
