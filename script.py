@@ -1,4 +1,5 @@
-#Exce automation script
+#Excel
+automation script
 import pandas as pd
 
 file = input("Filename:")
